@@ -1,5 +1,1 @@
-go.mod
-main.go
-flake.nix
-flake.lock
-module.nix
+result
